@@ -1,8 +1,16 @@
-# React + Vite
+This is a simple background changer project built with React.js. It allows users to change the background color of the page by clicking on a button labeled "Click Me".
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- Change the background color of the page by clicking on a button labeled "Click Me".
+- Responsive design for use on desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+
+Check out the live demo [here](https://your-background-changer.netlify.app/).
+
+## Technologies Used
+
+- React.js
+- CSS
+- Netlify (for deployment)
